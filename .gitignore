@@ -1,3 +1,6 @@
+# Locally Set Development Variables
+Src/Config/local_config.php
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

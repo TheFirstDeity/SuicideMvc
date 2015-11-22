@@ -41,4 +41,9 @@ spl_autoload_register(function($cName)
             }
         }
     });
+
+
+// Use local_config.php to, for example, configure $dbTestConnArgs for use on your
+// local development machine. Make sure the file is ignored by ".gitignore".
+if (file_exists('./local_config.php')) { include_once('./local_config.php'); }
 ?>

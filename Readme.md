@@ -9,10 +9,13 @@ Suicide MVC is a lightweight, open-source RAD framework for building websites in
 #### Current Version: 0.1 Alpha
 New software repository, in development and not ready for release.
 
+## Attribution
+** Thanks to the open-source project [CakePHP](https://github.com/cakephp/cakephp), who created the file [cake.generic.css](https://github.com/TheFirstDeity/SuicideMvc/tree/master/Src/View/Style/CakePHP) **
+
 ---
 
 ## [License][license]
-The software in this [repository][project] is licensed under the Microsoft Public License (MS-PL). See [LICENSE-SMVC.txt][license] in the software's root folder. Redistributions of any files must retain their respective copyright notices, except those specifically released into the public domain as templates/stubs. Such template/stub files are clearly differentiated by their file headers.
+The software in this [repository][project], unless otherwise noted, is licensed under the Microsoft Public License (MS-PL.) See [LICENSE-SMVC.txt][license] in the software's root folder. Redistributions of any files must retain their respective copyright notices.
 
 [project]: https://github.com/TheFirstDeity/SuicideMvc
 [license]: https://raw.githubusercontent.com/TheFirstDeity/SuicideMvc/master/LICENSE-SMVC.txt

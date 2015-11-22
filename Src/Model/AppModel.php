@@ -31,5 +31,4 @@ class AppModel extends Model
         parent::__construct($tableName);
     }
 }
-
 ?>

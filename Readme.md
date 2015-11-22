@@ -10,7 +10,7 @@ Suicide MVC is a lightweight, open-source RAD framework for building websites in
 New software repository, in development and not ready for release.
 
 ## Attribution
-** Thanks to the open-source project [CakePHP](https://github.com/cakephp/cakephp), who created the file [cake.generic.css](https://github.com/TheFirstDeity/SuicideMvc/tree/master/Src/View/Style/CakePHP) **
+**Thanks to the open-source project [CakePHP](https://github.com/cakephp/cakephp), who created the file [cake.generic.css](https://github.com/TheFirstDeity/SuicideMvc/tree/master/Src/View/Style/CakePHP)**
 
 ---
 
